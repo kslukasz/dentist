@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/dentist/static/css/main.96872867.css",
+    "main.css": "/dentist/static/css/main.bc3be131.css",
     "main.js": "/dentist/static/js/main.f9e106b7.js",
     "static/js/787.443e306b.chunk.js": "/dentist/static/js/787.443e306b.chunk.js",
     "static/media/dentist.jpg": "/dentist/static/media/dentist.f45f5541e34050adf4ad.jpg",
     "index.html": "/dentist/index.html",
-    "main.96872867.css.map": "/dentist/static/css/main.96872867.css.map",
+    "main.bc3be131.css.map": "/dentist/static/css/main.bc3be131.css.map",
     "main.f9e106b7.js.map": "/dentist/static/js/main.f9e106b7.js.map",
     "787.443e306b.chunk.js.map": "/dentist/static/js/787.443e306b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.96872867.css",
+    "static/css/main.bc3be131.css",
     "static/js/main.f9e106b7.js"
   ]
 }
