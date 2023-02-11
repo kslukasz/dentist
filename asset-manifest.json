@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/dentist/static/css/main.227c091c.css",
-    "main.js": "/dentist/static/js/main.f9e106b7.js",
-    "static/js/787.443e306b.chunk.js": "/dentist/static/js/787.443e306b.chunk.js",
-    "static/media/dentist.jpg": "/dentist/static/media/dentist.f45f5541e34050adf4ad.jpg",
-    "index.html": "/dentist/index.html",
-    "main.227c091c.css.map": "/dentist/static/css/main.227c091c.css.map",
-    "main.f9e106b7.js.map": "/dentist/static/js/main.f9e106b7.js.map",
-    "787.443e306b.chunk.js.map": "/dentist/static/js/787.443e306b.chunk.js.map"
+    "main.css": "/static/css/main.227c091c.css",
+    "main.js": "/static/js/main.8c1121bc.js",
+    "static/js/787.443e306b.chunk.js": "/static/js/787.443e306b.chunk.js",
+    "static/media/dentist.jpg": "/static/media/dentist.f45f5541e34050adf4ad.jpg",
+    "index.html": "/index.html",
+    "main.227c091c.css.map": "/static/css/main.227c091c.css.map",
+    "main.8c1121bc.js.map": "/static/js/main.8c1121bc.js.map",
+    "787.443e306b.chunk.js.map": "/static/js/787.443e306b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.227c091c.css",
-    "static/js/main.f9e106b7.js"
+    "static/js/main.8c1121bc.js"
   ]
 }
