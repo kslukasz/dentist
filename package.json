@@ -1,5 +1,5 @@
 {
-  "homepage":"https://kslukasz.github.io/dentist/",
+  "homepage": "https://kslukasz.github.io/dentist/",
   "name": "dentist",
   "version": "0.1.0",
   "private": true,
@@ -15,12 +15,13 @@
     "react-router-dom": "^6.6.1",
     "react-scripts": "5.0.1",
     "react-swipe": "^6.0.4",
+    "serve": "^14.2.0",
     "swipe-js-iso": "^2.1.5",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "predeploy":"npm run build",
-    "deploy":"gh-pages -d build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
