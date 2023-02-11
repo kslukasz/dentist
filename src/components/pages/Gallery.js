@@ -8,28 +8,28 @@ function About() {
     const [activeBig , setActiveBig] = useState(false);
     const [currentImageIndex , setCurrentImageIndex] = useState(0);
     const tableMini = [
-        "/files/gal/image1.jpg",
-        "/files/gal/image2.jpg",
-        "/files/gal/image3.jpg",
-        "/files/gal/image4.jpg",
-        "/files/gal/image5.jpg",
-        "/files/gal/image6.jpg",
-        "/files/gal/image7.jpg",
-        "/files/gal/image8.jpg",
-        "/files/gal/image9.jpg",
-        "/files/gal/image10.jpg"
+        "files/gal/image1.jpg",
+        "files/gal/image2.jpg",
+        "files/gal/image3.jpg",
+        "files/gal/image4.jpg",
+        "files/gal/image5.jpg",
+        "files/gal/image6.jpg",
+        "files/gal/image7.jpg",
+        "files/gal/image8.jpg",
+        "files/gal/image9.jpg",
+        "files/gal/image10.jpg"
     ];
     const tableBig = [
-        "/files/galBig/image1.jpg",
-        "/files/galBig/image2.jpg",
-        "/files/galBig/image3.jpg",
-        "/files/galBig/image4.jpg",
-        "/files/galBig/image5.jpg",
-        "/files/galBig/image6.jpg",
-        "/files/galBig/image7.jpg",
-        "/files/galBig/image8.jpg",
-        "/files/galBig/image9.jpg",
-        "/files/galBig/image10.jpg"
+        "files/galBig/image1.jpg",
+        "files/galBig/image2.jpg",
+        "files/galBig/image3.jpg",
+        "files/galBig/image4.jpg",
+        "files/galBig/image5.jpg",
+        "files/galBig/image6.jpg",
+        "files/galBig/image7.jpg",
+        "files/galBig/image8.jpg",
+        "files/galBig/image9.jpg",
+        "files/galBig/image10.jpg"
     ];
     const table1 = [0, 9, 3];
     const table2 = [4, 5, 6];
@@ -85,7 +85,7 @@ function About() {
         <>           
 
             <div className='contGal cont_row'>
-                <div className='cont_row contMiniGal'>
+                <div className='cont_row contMiniGal'>                 
                     {column(table1)}
                 </div>
                 <div className='cont_row contMiniGal'>
