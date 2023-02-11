@@ -1,0 +1,45 @@
+.contGal{
+    box-sizing: border-box;
+    max-width: 99rem;
+    width: 100%;
+    gap:1rem;
+    /* align-items: flex-start !important; */
+    align-items: stretch !important;
+    justify-content: center;
+
+}
+.contMiniGal{
+    box-sizing: border-box;
+    align-content: space-between !important;
+   /* align-items: flex-start !important; */
+    max-width: 32%;
+    gap:1rem
+}
+.contMiniGal > img{
+    box-sizing: border-box;
+    width: 100%;
+    transition: all 0.4s;
+    border: 1rem solid white;
+    border-radius: 3px;
+    box-shadow: 0 0 4px 2px rgba(89, 89, 89, 0.526);  
+   
+}
+.contMiniGal > img:hover{    
+        /* box-shadow: 0 0 8px 2px rgba(89, 89, 89, 0.526);    */
+        transform: scale(1.03);
+        cursor: pointer; 
+}
+
+@media (max-width:800px) {
+    .contMiniGal{
+      max-width: 48%;
+      padding-top: 1.5rem;
+    }
+    .contGal > div:nth-child(3){
+        justify-content: center;
+        max-width: 99%;
+    }
+    .contGal > div:nth-child(3) > img {
+        width: 48%;
+    }
+  }

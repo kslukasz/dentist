@@ -1,0 +1,45 @@
+{
+	"PL": {
+		"adres": ["Kraków, ul.Telimeny 31/2a", "Jaworzno, ul.Szczakowska 4"],
+		"mobile": [
+			{
+				"name": "Lek. stom. Litewka Adam",
+				"number": "tel: 601 643 353"
+			},
+			{
+				"name": "Lek. stom. Litewka-Kozak Dorota",
+				"number": "tel: 509 945 052"
+
+			}
+		],
+		"aboutOne":"Absolwent Krakowskiej Akademii Medycznej, Posiada tytuł specjalisty stomatologii ogólnej",
+		"aboutTwo":"Absolwentka kierunku lekarsko-dentystycznego Collegium Medicum Uniwersytetu Jagiellońskiego w Krakowie",
+		"local":["Kraków: 12 658 45 17","Jaworzno: 32 752 34 84"],
+		"hours":{
+			"one":[["9:00-12:30","16.00-19:30","9:00-12:30","16:00-19:30","15:00-18:30"],["16.00-19:30","","16.00-19:30","",""]],
+			"two":[["14:30-19:00","09:00-13:00","14:30-19:00","","09:00-13:00"]]
+		},
+		"days":["Pon.","Wt.","Śr.","Czw.","Pt.","Sob.","Nd."],
+		"location":["https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2563.675442614375!2d20.015905115577308!3d50.01743817941798!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4716437f62370efb%3A0x9099b7a6bb1ad041!2sGabinet%20Stomatologiczny%20Litewka%20Adam%20i%20Dorota!5e0!3m2!1spl!2spl!4v1676059632014!5m2!1spl!2spl","https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2552.664306061748!2d19.246212015585336!3d50.22349327944473!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4716c33ceafdce65%3A0xe1c995796cd35ed7!2sSzczakowska%204%2C%2043-600%20Jaworzno!5e0!3m2!1spl!2spl!4v1676041933564!5m2!1spl!2spl"],
+		"gallery":{
+			"srcGallery":["/files/1.jpg","/files/2.jpg","/files/3.jpg","/files/4.jpg"],
+			"writingGallery":["Gabinet istnieje od 1993 roku",
+			"Wysoka jakość usług w przystępnych cenach",
+			"Nowoczesny sprzęt oraz materiały stomatologiczne najwyżczej jakości gwarantują profesjonalną obsługę i leczenie",
+			"Zapraszamy na bezpłatne konsultacje"],
+			"time":5000
+		},
+		"why":[
+			"W naszym gabinecie oferujemy wysoką jakoś usług w przystępnych cenach",
+			"Oferujemy kompleksowe leczenie dzieci i dorosłych w miłej atmosferze",
+			"Wysokiej jakości system RTG umiżliwia wykonanie zdjęć radiologicznych bezpośrednio w gabinecie",
+			"Personel gabinetu nieustannie podnosi swoje kwalifikacje biorąc udział w kursach i szkoleniach stomatologicznych",
+			"Nowoczesny sprzęt i materiały gwarantują profesjonalne i bezbolesne leczenie",
+			"Serdecznie zachęcamy do skorzystania z naszych usług"
+		]
+	},
+	"EN": {
+
+	}
+
+}
