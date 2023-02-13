@@ -148,11 +148,11 @@ function About() {
         <>
             <section className='cont_row peopleCont fontBig '>
                 <div>
-                    <span className='font_bold fontBlue'><span class="material-symbols-outlined">clinical_notes</span><span>{data.PL.mobile[0].name}</span></span>
+                    <span className='font_bold fontBlue'><span className="material-symbols-outlined">clinical_notes</span><span>{data.PL.mobile[0].name}</span></span>
                     <span className='fontNormal'>{data.PL.aboutOne}</span>
                 </div>
                 <div>
-                <span className='font_bold fontBlue'><span class="material-symbols-outlined">clinical_notes</span><span>{data.PL.mobile[1].name}</span></span>
+                <span className='font_bold fontBlue'><span className="material-symbols-outlined">clinical_notes</span><span>{data.PL.mobile[1].name}</span></span>
                     <span className='fontNormal'>{data.PL.aboutTwo}</span>
                 </div>
             </section>
@@ -175,9 +175,9 @@ function About() {
             <div className={`${activeBig ? 'backgroundPicture' : 'displayNone'}`}>               
                 <div className='contPicture'>
                 <img src={tableBig[currentImageIndex]} alt="Not found" />
-                <div className={`${currentImageIndex===0 ? "displayNone" : 'buttonLeft'}`} onClick={()=>changePicture("left")}><span class="material-symbols-outlined">chevron_left</span></div>
-                <div className={`${currentImageIndex===tableBig.length-1 ? "displayNone": 'buttonRight'}`} onClick={()=>changePicture("right")}><span class="material-symbols-outlined">chevron_right</span></div>
-                <div className='buttonClose' onClick={closePicture}><span class="material-symbols-outlined">disabled_by_default</span></div>
+                <div className={`${currentImageIndex===0 ? "displayNone" : 'buttonLeft'}`} onClick={()=>changePicture("left")}><span className="material-symbols-outlined">chevron_left</span></div>
+                <div className={`${currentImageIndex===tableBig.length-1 ? "displayNone": 'buttonRight'}`} onClick={()=>changePicture("right")}><span className="material-symbols-outlined">chevron_right</span></div>
+                <div className='buttonClose' onClick={closePicture}><span className="material-symbols-outlined">disabled_by_default</span></div>
                 </div>
             </div>           
             

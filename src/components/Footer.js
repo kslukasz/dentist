@@ -29,7 +29,7 @@ function Footer() {
                 </div>                
                 <div  className='copyRights fontSmall'>
                 <span>COPYRIGHT © 1993-{yearActual()}dentysta-litewka</span>
-                <span>{`${"\u00A0"}`}napisz do nas:{`${"\u00A0"}`}<a href="mailto:dorident@poczta.fm" className='linkBlue'>dorident@poczta.fm</a></span>
+                <span>{`${"\u00A0"}`}napisz do nas:{`${"\u00A0"}`}<a href={`mailto:${data.PL.mail}`} className='linkBlue'>{data.PL.mail}</a></span>
                 <span>{`${"\u00A0"}`}created by:{`${"\u00A0"}`}<a href="mailto:kslukasz@o2.pl" className='linkBlue'>kslukasz@o2.pl</a></span>
                 </div>
 

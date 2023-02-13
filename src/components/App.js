@@ -7,14 +7,27 @@ import Header from './Header';
 import Navigation from './Navigation'
 import Main from './Main'
 import Footer from './Footer.js';
-import data from '../files/data.json'
+// import data from '../files/data.json'
 import './css/App.css';
-
+const API = 'files/datafile.json'
 
 function App() {
-
+  const [data,setData] = useState(false);
   const [navView, setNavView] = useState(startAppView());
   const [mobileMenuButtonActive, setMobileMenuButtonActive ] = useState(false);
+
+  function fetchData () {
+    fetch(API)
+      .then(response => response.json())
+      .then(dataCont => {
+       setData(dataCont);     
+
+      })
+      .catch((error) => {
+        // console.log(error)        
+      })
+  }
+
 
 function startAppView () {
   const bodyView = document.body.clientWidth;
@@ -41,7 +54,8 @@ function startAppView () {
     }
   }
 
-  useEffect(() => {    
+  useEffect(() => {  
+    fetchData();  
     chandleResize();
     window.addEventListener("resize", chandleResize);    
     return () => {
@@ -61,17 +75,17 @@ function startAppView () {
       }}>
         <div className="App cont_column">
           <header className='cont_column rel'>
-            <Header />
+            {data ? <Header /> : null}
           </header>
           <nav className='cont_column align_center'>
-            <Navigation />
+          {data ? <Navigation /> : null}
           </nav>
           <main className='cont_column align_center'>           
-           <Main />
+          {data ? <Main /> : null}
            
           </main>
           <footer>
-            <Footer/>
+          {data ? <Footer/>:null}
           </footer>
         </div>
       </AppContext.Provider>

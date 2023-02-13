@@ -9,9 +9,15 @@
     gap: 1.6rem;
     padding: 2rem 0rem;
 }
+@media (max-width:716px) {
+    .contactName{
+        justify-content: flex-start;
+    }
+  }
 
 .contactName>div {
     box-sizing: border-box;
+    min-width: 40rem;
     /* flex-grow: 1; */
    
     /* box-shadow: 0 0 4px 1px rgba(89, 89, 89, 0.526);   */
