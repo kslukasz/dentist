@@ -10,7 +10,7 @@ function Equipment() {
                 </div>
                 <div className='cont_row contEq'>
                     <img src="files/equipment/rtg.jpg" alt="Not Found" />
-                    <div>System radiowizjii cyfrowej</div>
+                    <div>System radiowizjografii cyfrowej</div>
                 </div>
                 <div className='cont_row contEq'>
                     <img src="files/equipment/endometr.jpg" alt="Not Found" />

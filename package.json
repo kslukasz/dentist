@@ -1,5 +1,4 @@
-{ 
-  "homepage": "https://kslukasz.github.io/dentist/",
+{   
   "name": "dentist",
   "version": "0.1.0",
   "private": true,

@@ -3,7 +3,7 @@
 		"adres": ["Kraków, ul.Telimeny 31/2a", "Jaworzno, ul.Szczakowska 4"],
 		"mobile": [{
 				"name": "Lek. stom. Litewka Adam",
-				"number": "tel: 601 643 353"
+				"number": "tel: 601 643 354"
 			},
 			{
 				"name": "Lek. stom. Litewka-Kozak Dorota",
@@ -30,7 +30,7 @@
 			"srcGallery": ["files/1.jpg", "files/2.jpg", "files/3.jpg", "files/4.jpg"],
 			"writingGallery": ["Gabinet istnieje od 1993 roku",
 				"Wysoka jakość usług w przystępnych cenach",
-				"Nowoczesny sprzęt oraz materiały stomatologiczne najwyżczej jakości gwarantują profesjonalną obsługę i leczenie",
+				"Nowoczesny sprzęt oraz materiały stomatologiczne najwyższej jakości gwarantują profesjonalną obsługę i leczenie",
 				"Zapraszamy na bezpłatne konsultacje"
 			],
 			"time": 5000
@@ -38,7 +38,7 @@
 		"why": [
 			"W naszym gabinecie oferujemy wysoką jakość usług w przystępnych cenach",
 			"Oferujemy kompleksowe leczenie dzieci i dorosłych w miłej atmosferze",
-			"Wysokiej jakości system RTG umiżliwia wykonanie zdjęć radiologicznych bezpośrednio w gabinecie",
+			"Wysokiej jakości system RTG umożliwia wykonanie zdjęć radiologicznych bezpośrednio w gabinecie",
 			"Personel gabinetu nieustannie podnosi swoje kwalifikacje biorąc udział w kursach i szkoleniach stomatologicznych",
 			"Nowoczesny sprzęt i materiały gwarantują profesjonalne i bezbolesne leczenie",
 			"Serdecznie zachęcamy do skorzystania z naszych usług"
@@ -46,7 +46,7 @@
 		"services": [{
 			"category": "Stomatologia Zachowawcza z Endodoncią",
 			"content": [{
-				"title": "wypełnienia materiałem światłoutwardzalnym najnowszej generacii",
+				"title": "wypełnienia materiałem światłoutwardzalnym najnowszej generacji",
 				"descripction": ""
 			}, {
 				"title": "odbudowa zęba po leczeniu kanałowym z zastosowaniem włókien szklanych, lanych, standardowych",
@@ -93,7 +93,7 @@
 			}]
 
 		},{
-			"category": "Cirurgia Stomatologiczna",
+			"category": "Chirurgia Stomatologiczna",
 			"content": [{
 				"title": "ekstrakcje zębów stałych i mlecznych",
 				"descripction": ""
