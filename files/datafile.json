@@ -1,0 +1,164 @@
+{
+	"PL": {
+		"adres": ["Kraków, ul.Telimeny 31/2a", "Jaworzno, ul.Szczakowska 4"],
+		"mobile": [{
+				"name": "Lek. stom. Litewka Adam",
+				"number": "tel: 601 643 353"
+			},
+			{
+				"name": "Lek. stom. Litewka-Kozak Dorota",
+				"number": "tel: 509 945 052"
+
+			}
+		],
+		"mail":"dorident@poczta.fm",
+		"aboutOne": "Absolwent Krakowskiej Akademii Medycznej, Posiada tytuł specjalisty stomatologii ogólnej",
+		"aboutTwo": "Absolwentka kierunku lekarsko-dentystycznego Collegium Medicum Uniwersytetu Jagiellońskiego w Krakowie",
+		"local": ["Kraków: 12 658 45 17", "Jaworzno: 32 752 34 84"],
+		"hours": {
+			"one": [
+				["9:00-12:30", "16.00-19:30", "9:00-12:30", "16:00-19:30", "15:00-18:30"],
+				["16.00-19:30", "", "16.00-19:30", "", ""]
+			],
+			"two": [
+				["14:30-19:00", "09:00-13:00", "14:30-19:00", "", "09:00-13:00"]
+			]
+		},
+		"days": ["Pon.", "Wt.", "Śr.", "Czw.", "Pt.", "Sob.", "Nd."],
+		"location": ["https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2563.675442614375!2d20.015905115577308!3d50.01743817941798!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4716437f62370efb%3A0x9099b7a6bb1ad041!2sGabinet%20Stomatologiczny%20Litewka%20Adam%20i%20Dorota!5e0!3m2!1spl!2spl!4v1676059632014!5m2!1spl!2spl", "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d372.2194684582461!2d19.248833847370296!3d50.22351947473087!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4716c31dfb94d933%3A0x4469505b495f6445!2sGabinet%20Stomatologiczny%20Adam%20Litewka!5e0!3m2!1spl!2spl!4v1676142465475!5m2!1spl!2spl"],
+		"gallery": {
+			"srcGallery": ["files/1.jpg", "files/2.jpg", "files/3.jpg", "files/4.jpg"],
+			"writingGallery": ["Gabinet istnieje od 1993 roku",
+				"Wysoka jakość usług w przystępnych cenach",
+				"Nowoczesny sprzęt oraz materiały stomatologiczne najwyżczej jakości gwarantują profesjonalną obsługę i leczenie",
+				"Zapraszamy na bezpłatne konsultacje"
+			],
+			"time": 5000
+		},
+		"why": [
+			"W naszym gabinecie oferujemy wysoką jakość usług w przystępnych cenach",
+			"Oferujemy kompleksowe leczenie dzieci i dorosłych w miłej atmosferze",
+			"Wysokiej jakości system RTG umiżliwia wykonanie zdjęć radiologicznych bezpośrednio w gabinecie",
+			"Personel gabinetu nieustannie podnosi swoje kwalifikacje biorąc udział w kursach i szkoleniach stomatologicznych",
+			"Nowoczesny sprzęt i materiały gwarantują profesjonalne i bezbolesne leczenie",
+			"Serdecznie zachęcamy do skorzystania z naszych usług"
+		],
+		"services": [{
+			"category": "Stomatologia Zachowawcza z Endodoncią",
+			"content": [{
+				"title": "wypełnienia materiałem światłoutwardzalnym najnowszej generacii",
+				"descripction": ""
+			}, {
+				"title": "odbudowa zęba po leczeniu kanałowym z zastosowaniem włókien szklanych, lanych, standardowych",
+				"descripction": ""
+			}, {
+				"title": "estetyczna odbudowa zęba",
+				"descripction": ""
+			}, {
+				"title": "licówki kompozytowe",
+				"descripction": "Wykonywane z materiałów światłoutwardzalnych najnowszej generacji, w czasie jednej wizyty. Pozwalają skorygować kształt, kolor, wielkość zęba. Wymagają niewielkiej ingerencji w tkanki. Dzięki nowoczesnym technikom adhezyjnym licówki kompozytowe bardzo dobrze wiążą się z powierzchnią korygowanych zębów, a odpowiednio użytkowane mogą wyglądać pięknie i być trwałe przez lata."
+			}, {
+				"title": "zabiegi higienizacyjne (scaling, piaskowanie, fluoryzacja)",
+				"descripction": "Należy do zabiegów profilaktycznych a zarazem leczniczych i polega na usuwaniu twardych złogów nazębnych (tzw. kamienia nazębnego) przy pomocy scalera ultradźwiękowego. Kamień nazębny prowadzi m.in. do obniżania się i odsłaniania szyjek zębowych, stopniowego rozchwiania zębów i ich wypadania (parodontoza). Zabieg polega na oczyszczeniu powierzchni zębów z płytki nazębnej i osadów powstających na skutek picia kawy, herbaty, oraz palenia papierosów za pomocą tzw. piaskarki. Urządzeniem tym pod ciśnieniem i z odpowiednią ilością wody rozpyla się w jamie ustnej pacjenta drobnoziarnisty proszek, który z łatwością dociera nie tylko do każdego fragmentu powierzchni zęba ale również do przestrzeni międzyzębowych."
+			}, {
+				"title": "leczenie nadwrażliwości zębów",
+				"descripction": "Ząb składa się z zewnętrznej korony, szyjki osłoniętej dziąsłem i korzenia. Do nadwrażliwości dochodzi wówczas, gdy dziąsła ulegają recesji, czyli cofają się, odsłaniając w ten sposób szyjkę zębową lub kiedy chroniące wnętrze zęba szkliwo zostaje uszkodzone (chemicznie, mechanicznie). Nadwrażliwe zęby reagują bólem na ciepło, zimno, dotyk oraz słodki lub kwaśny smak."
+			},{
+				"title": "leczenie chorób błon śluzowych jamy ustnej",
+				"descripction": ""
+			},{
+				"title": "leczenie endodontyczne",
+				"descripction": ""
+			},{
+				"title": "ponowne leczenie endodontyczne w powiększeniu narzędziami maszynowymi",
+				"descripction": ""
+			},{
+				"title": "WYBIELANIE (Opalescence) zębów metodą nakładkową",
+				"descripction": ""
+			}]
+		}, {
+			"category": "Stomatologia dziecięca",
+			"content": [{
+				"title": "wizyta adaptacyjna",
+				"descripction": ""
+			}, {
+				"title": "wypełnienie materiałem światłoutwardzalnym i chemoutwardzalnym",
+				"descripction": ""
+			}, {
+				"title": "lakowanie bruzd",
+				"descripction": "Zabieg bezbolesny, profilaktyczny, polegający na wypełnieniu bruzd zębów przedtrzonowych i trzonowych lakiem szczelinowym."
+			}, {
+				"title": "lakierowanie zębów mlecznych i stałych",
+				"descripction": "Zabieg profilaktyczny polegajacy na pokryciu powierzchni zebów lakierem fluorowym, w celu zabezpieczenia powierzchni zęba przed próchnicą, a także pomaga zwalczyć nadwrażliwość. Dzięki temu szkliwo zębów staje się odporne na demineralizację wywoływaną kwasami produkowanymi przez bakterie próchnicowe. Lakierowanie może być przeprowadzane zarówno u dzieci jak i u dorosłych."
+			}]
+
+		},{
+			"category": "Cirurgia Stomatologiczna",
+			"content": [{
+				"title": "ekstrakcje zębów stałych i mlecznych",
+				"descripction": ""
+			}, {
+				"title": "leczenie powikłań poekstrakcyjnych",
+				"descripction": ""
+			}]
+
+		},{
+			"category": "Protetyka Stomatologiczna",
+			"content": [{
+				"title": "protezy akrylowe całkowite i częściowe",
+				"descripction": ""
+			}, {
+				"title": "protezy natychmiastowe",
+				"descripction": "Protezy natychmiastowe: ruchome uzupełnienie protetyczne, wykonane z akrylu, zakładane natychmiast po ekstrakcji zęba. Etapy związane z wykonaniem protezy zostają przeprowadzone jeszcze przed usunięciem zęba. Dzięki takiemu rozwiązaniu rana poekstrakcyjna zostaje zabezpieczona, co przyspiesza jej gojenie, a pacjent unika momentu, kiedy po ekstrakcji musiałby pozostać bez uzębienia (względy estetyczne)."
+			},{
+				"title": "protezy szkieletowe, na zatrzaskach / teleskopach",
+				"descripction": "Ruchome uzupełnienia protetyczne, nieosiadające. Zapewniają większy komfort użytkowania niż tradycyjne protezy akrylowe, błona śluzowa zostaje odciążona ze względu na podparcia, łuk podjęzykowy wykonany z metalu, a także zredukowaną płytę podniebienną - zachowane odczuwanie smaku .Tego rodzaju protezę wykonuje się przy częściowych brakach uzębienia. Klamry, zatrzaski, zasuwy - powodują lepsze utrzymanie protezy, nie niszcząc przy tym zębów filarowych."
+			},{
+				"title": "szynoprotezy",
+				"descripction": ""
+			},{
+				"title": "korony i mosty porcelanowe",
+				"descripction": "Korona porcelanowa to estetyczne, stałe uzupełnienie protetyczne, polegające na odbudowie utraconych tkanek zęba w wyniku m.in.próchnicy, urazu. Korona porcelanowa w bardzo dobry sposób imituje zęba własnego, pod względem funkcji mechanicznych jak i z wyglądu. Odpowiednio dobrany kolor oraz wysokiej jakości porcelana pozwalają osiągnąć wysoce satysfakcjonujący efekt. Wykonujemy korony porcelanowe na podbudowie metalowej jak i pełnoceramiczne. Most porcelanowy to stałe uzupełnienie protetyczne, trwale wkomponowane w łuk zębowy mające na celu zaopatrzenie powstałego braku zębowego. Mosty stosuje się do uzupełnienia braków jedno lub kilku - zębowych. Są one mocowane do naturalnych zębów bądź implantów znajdujących się po obu stronach pustych przestrzeni. Zęby te zwane są filarami, ponieważ służą jako punkty zakotwiczenia mostu."
+			},{
+				"title": "mosty porcelanowe z podparciem szkalnym",
+				"descripction": ""
+			},{
+				"title": "korony pełnoceramiczne",
+				"descripction": ""
+			},{
+				"title": "korony pełnoceramiczne na cyrkonie",
+				"descripction": ""
+			},{
+				"title": "licówki porcelanowe",
+				"descripction": ""
+			},{
+				"title": "wkłady koronowo-korzeniowe",
+				"descripction": ""
+			},{
+				"title": "implantoplastyka",
+				"descripction": ""
+			},{
+				"title": "naprawy protez",
+				"descripction": ""
+			}]
+
+		},{
+			"category": "RTG",
+			"content": [{
+				"title": "cyfrowa diagnostyka rtg",
+				"descripction": ""
+			}, {
+				"title": "zdjęcia punktowe",
+				"descripction": ""
+			},{
+				"title": "zdjęcia zgryzowe",
+				"descripction": ""
+			}]
+
+		}]
+	},
+	"EN": {
+
+	}
+
+}
