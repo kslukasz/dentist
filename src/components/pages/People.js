@@ -146,11 +146,7 @@ function About() {
       },[activeBig]);
     return (
         <>
-            <section className='cont_row peopleCont fontBig '>
-                <div>
-                    <span className='font_bold fontBlue'><span className="material-symbols-outlined">clinical_notes</span><span>{data.PL.mobile[0].name}</span></span>
-                    <span className='fontNormal'>{data.PL.aboutOne}</span>
-                </div>
+            <section className='cont_row peopleCont fontBig '>               
                 <div>
                 <span className='font_bold fontBlue'><span className="material-symbols-outlined">clinical_notes</span><span>{data.PL.mobile[1].name}</span></span>
                     <span className='fontNormal'>{data.PL.aboutTwo}</span>

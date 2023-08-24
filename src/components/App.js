@@ -21,7 +21,6 @@ function App() {
       .then(response => response.json())
       .then(dataCont => {
        setData(dataCont);     
-
       })
       .catch((error) => {
         // console.log(error)        
@@ -81,8 +80,7 @@ function startAppView () {
           {data ? <Navigation /> : null}
           </nav>
           <main className='cont_column align_center'>           
-          {data ? <Main /> : null}
-           
+          {data ? <Main /> : null}           
           </main>
           <footer>
           {data ? <Footer/>:null}

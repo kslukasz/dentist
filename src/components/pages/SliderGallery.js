@@ -32,7 +32,7 @@ function SliderGallery({ srcGallery, writingGallery, timeInterval }) {
     const galleryShow = (
         srcGallery.map((element, index) => {
             return (
-                <img src={element} alt="" key={element[index]} className={`${index === currentView ? "null" : "zero"}`} />
+                <img src={element} alt="" key={element[index]} className={`${index === currentView ? "null" : "zero"}`}/>
             )
         })
     );
